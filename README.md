@@ -1,6 +1,6 @@
-# End of Module Assginment
+# Project Brief
 
-As part of this project, students were assigned to build a simple client/server network that creates a dictionary, populates it, serializes it and sends it to a server (along with a text file). Regarding the dictionary, the user should be able to set the pickling format to either binary, JSON and XML. Also, the user will need to have the option to encrypt the text in a text file. The server should have a configurable option to print the contents of the sent items to the screen and or to a file. 
+This was one of my university projects, where we were assigned to build a simple client/server network that creates a dictionary, populates it, serialises it and sends it to a server (along with a text file). Regarding the dictionary, the user should be able to set the pickling format to either binary, JSON and XML. Also, the user will need to have the option to encrypt the text in a text file. The server should have a configurable option to print the contents of the sent items to the screen and or to a file. 
 
 ## Systems Requirements
 
