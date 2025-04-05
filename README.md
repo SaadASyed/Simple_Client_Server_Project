@@ -34,7 +34,3 @@ Running the above command will enable the client to create a dictionary with som
 ## Project Contributors
 1. Timothy Poon - Project Manager and Code Tester.
 2. Saad Syed - Software Engineer and Software Architect.
-
-## License
-
-This assignment is licensed under MIT License.
